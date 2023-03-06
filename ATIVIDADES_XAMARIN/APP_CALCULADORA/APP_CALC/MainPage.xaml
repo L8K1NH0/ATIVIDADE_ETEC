@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APP_CALC.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+        <Label Text="Calculadora C#" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Digite o primeiro número:" FontSize="36" TextColor="Black"></Label>
+        <Entry x:Name="TxtN1"></Entry>
+        <Label Text="Digite o sugundo número" FontSize="36" TextColor="Black"></Label>
+        <Entry x:Name="TxtN2"></Entry>
+        <Label Text="Resultado" FontSize="36" TextColor="Black"></Label>
+        <!--<Entry x:Name="TxtResultado" IsEnabled="False"></Entry>-->
+        <Label x:Name="LblResultado"></Label>
+        <Button Text="Somar" x:Name="BtnSomar" Clicked="BtnSomar_Clicked" CornerRadius="10" ></Button>
+        <Button Text="Subtrair" x:Name="BtnSubtrair" Clicked="BtnSubtrair_Clicked" CornerRadius="10" ></Button>
+        <Button Text="Multiplicar" x:Name="BtnMultiplicar" Clicked="BtnMultiplicar_Clicked"  CornerRadius="10" ></Button>
+        <Button Text="Divir" x:Name="BtnDivir" Clicked="BtnDivir_Clicked" CornerRadius="10" ></Button>
+        <Button Text="Limpar" x:Name="BtnLimpar" Clicked="BtnLimpar_Clicked" CornerRadius="10"></Button>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\bin\Debug\Antecessor_e_Sucessor.exe.config
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\bin\Debug\Antecessor_e_Sucessor.exe
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\bin\Debug\Antecessor_e_Sucessor.pdb
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.Form1.resources
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.exe
+C:\Users\Usuario\Downloads\PROJETOS\Antecessor_e_Sucessor\obj\Debug\Antecessor_e_Sucessor.pdb

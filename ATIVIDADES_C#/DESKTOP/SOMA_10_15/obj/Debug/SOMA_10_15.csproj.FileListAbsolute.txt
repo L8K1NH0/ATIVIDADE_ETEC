@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\bin\Debug\SOMA_10_15.exe.config
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\bin\Debug\SOMA_10_15.exe
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\bin\Debug\SOMA_10_15.pdb
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.Form1.resources
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.exe
+C:\Users\Usuario\Downloads\PROJETO\SOMA_10_15\obj\Debug\SOMA_10_15.pdb

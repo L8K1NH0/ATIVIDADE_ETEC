@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\bin\Debug\netstandard2.0\APP_CALC.deps.json
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\bin\Debug\netstandard2.0\APP_CALC.dll
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\bin\Debug\netstandard2.0\ref\APP_CALC.dll
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\bin\Debug\netstandard2.0\APP_CALC.pdb
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\APP_CALC.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\APP_CALC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\APP_CALC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\APP_CALC.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\APP_CALC.dll
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\ref\APP_CALC.dll
+C:\Users\Usuario\Downloads\PROJETO\APP_CALC\APP_CALC\obj\Debug\netstandard2.0\APP_CALC.pdb

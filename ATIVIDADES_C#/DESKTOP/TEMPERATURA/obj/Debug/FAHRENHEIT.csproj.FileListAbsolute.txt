@@ -1,0 +1,11 @@
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\bin\Debug\FAHRENHEIT.exe.config
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\bin\Debug\FAHRENHEIT.exe
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\bin\Debug\FAHRENHEIT.pdb
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.csproj.AssemblyReference.cache
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.FrmTemperatura.resources
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.Properties.Resources.resources
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.csproj.GenerateResource.cache
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.csproj.CoreCompileInputs.cache
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.exe
+C:\Users\Cr4zy\Documents\ETEC\ATIVIDADES\FAHRENHEIT\obj\Debug\FAHRENHEIT.pdb

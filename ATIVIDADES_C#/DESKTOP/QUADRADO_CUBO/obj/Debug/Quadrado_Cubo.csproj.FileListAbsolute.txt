@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\bin\Debug\Quadrado_Cubo.exe.config
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\bin\Debug\Quadrado_Cubo.exe
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\bin\Debug\Quadrado_Cubo.pdb
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.Form1.resources
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.exe
+C:\Users\Usuario\Downloads\PROJETOS\Quadrado_Cubo\obj\Debug\Quadrado_Cubo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\bin\Debug\TROCA_DE_VALORES.exe.config
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\bin\Debug\TROCA_DE_VALORES.exe
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\bin\Debug\TROCA_DE_VALORES.pdb
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.FrmTrocaDeValores.resources
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.exe
+C:\Users\Usuario\source\repos\TROCA_DE_VALORES\obj\Debug\TROCA_DE_VALORES.pdb

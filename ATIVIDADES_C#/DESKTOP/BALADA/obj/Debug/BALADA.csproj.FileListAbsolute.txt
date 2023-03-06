@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\PROJETO\BALADA\bin\Debug\BALADA.exe.config
+C:\Users\Usuario\Documents\PROJETO\BALADA\bin\Debug\BALADA.exe
+C:\Users\Usuario\Documents\PROJETO\BALADA\bin\Debug\BALADA.pdb
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.FrmBalada.resources
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.exe
+C:\Users\Usuario\Documents\PROJETO\BALADA\obj\Debug\BALADA.pdb

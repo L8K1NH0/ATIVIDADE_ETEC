@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.FrmCalculadora.resources
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+C:\Users\Usuario\Downloads\PROJETO\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb

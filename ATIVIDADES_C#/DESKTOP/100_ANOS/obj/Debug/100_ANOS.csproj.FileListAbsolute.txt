@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\bin\Debug\100_ANOS.exe.config
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\bin\Debug\100_ANOS.exe
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\bin\Debug\100_ANOS.pdb
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\100_ANOS.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\_100_ANOS.FrmIdade.resources
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\_100_ANOS.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\100_ANOS.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\100_ANOS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\100_ANOS.exe
+C:\Users\Usuario\Documents\PROJETO\100_ANOS\obj\Debug\100_ANOS.pdb

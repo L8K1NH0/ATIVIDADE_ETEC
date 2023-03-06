@@ -1,0 +1,10 @@
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\bin\Debug\MEDIA_BIMESTRE.exe.config
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\bin\Debug\MEDIA_BIMESTRE.exe
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\bin\Debug\MEDIA_BIMESTRE.pdb
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.Form1.resources
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.exe
+C:\Users\Usuario\Downloads\PROJETO\MEDIA_BIMESTRE\obj\Debug\MEDIA_BIMESTRE.pdb
